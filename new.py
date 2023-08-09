@@ -1,2 +1,2 @@
 print("Hello World")
-print("This is a Git Tutorial V1 before deletion")
+print("This is a Git Tutorial V2 with some features")
